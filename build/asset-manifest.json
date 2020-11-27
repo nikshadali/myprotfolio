@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/myprotfolio/static/css/main.666eceb3.chunk.css",
+    "main.js": "/myprotfolio/static/js/main.2a331e98.chunk.js",
+    "main.js.map": "/myprotfolio/static/js/main.2a331e98.chunk.js.map",
+    "runtime-main.js": "/myprotfolio/static/js/runtime-main.7e86f4f8.js",
+    "runtime-main.js.map": "/myprotfolio/static/js/runtime-main.7e86f4f8.js.map",
+    "static/css/2.2a86faee.chunk.css": "/myprotfolio/static/css/2.2a86faee.chunk.css",
+    "static/js/2.8337002d.chunk.js": "/myprotfolio/static/js/2.8337002d.chunk.js",
+    "static/js/2.8337002d.chunk.js.map": "/myprotfolio/static/js/2.8337002d.chunk.js.map",
+    "index.html": "/myprotfolio/index.html",
+    "precache-manifest.d23046127ed674a9d43345302227f400.js": "/myprotfolio/precache-manifest.d23046127ed674a9d43345302227f400.js",
+    "service-worker.js": "/myprotfolio/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/myprotfolio/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.666eceb3.chunk.css.map": "/myprotfolio/static/css/main.666eceb3.chunk.css.map",
+    "static/js/2.8337002d.chunk.js.LICENSE.txt": "/myprotfolio/static/js/2.8337002d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/myprotfolio/static/media/background.2749f5f2.jpg",
+    "static/media/cisco.jpg": "/myprotfolio/static/media/cisco.f1d50dd0.jpg",
+    "static/media/freelance.jpg": "/myprotfolio/static/media/freelance.5cc5abaa.jpg",
+    "static/media/nik.jpg": "/myprotfolio/static/media/nik.f5b3f77a.jpg",
+    "static/media/wordpress.jpg": "/myprotfolio/static/media/wordpress.5cc5abaa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e86f4f8.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.8337002d.chunk.js",
+    "static/css/main.666eceb3.chunk.css",
+    "static/js/main.2a331e98.chunk.js"
+  ]
+}
